@@ -1,0 +1,10 @@
+ucimlrepo
+imbalanced-learn
+xgboost
+lightgbm
+catboost
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
